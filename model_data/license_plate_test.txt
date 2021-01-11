@@ -1,0 +1,17 @@
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor81.jpeg 129,1117,637,1196,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor82.jpeg 190,1045,622,1145,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor83.jpeg 177,1068,704,1153,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor84.jpeg 163,1137,678,1243,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor85.jpeg 231,1078,555,1215,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor86.jpeg 98,1159,637,1237,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor87.jpeg 227,1015,726,1102,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor88.jpeg 277,725,539,753,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor89.jpeg 161,1094,680,1178,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor90.jpeg 180,1117,563,1190,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor91.jpeg 267,943,684,1027,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor92.jpeg 290,338,448,393,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor93.jpeg 337,582,467,639,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor94.jpeg 94,715,196,747,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor95.jpeg 267,682,459,723,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor96.jpeg 102,568,228,598,0
+W:\Work-Main\Object Detection\TensorFlow-2.x-YOLOv3/tractor_Images/test/tractor97.jpeg 186,815,434,868,0
